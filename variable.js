@@ -6,3 +6,6 @@ var email = "edwardgavingarcia@yahoo.com"
 var mothersName = "Johanna"
 var petsName = "Renton"
 
+var lovesTuring = "true"
+var upLate = "true"
+var namedFileWrong = "true"
