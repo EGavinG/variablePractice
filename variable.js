@@ -12,3 +12,8 @@ var petsName = "Renton"
 var lovesTuring = true
 var upLate = true
 var namedFileWrong = true
+
+// Reassign Variables
+var email = "gav_in_sane@yahoo.com"
+var upLate = false
+var luckyNumber = 8
