@@ -17,3 +17,9 @@ var namedFileWrong = true
 var email = "gav_in_sane@yahoo.com"
 var upLate = false
 var luckyNumber = 8
+
+// Console log
+console.log(email)
+console.log(luckyNumber)
+console.log(upLate)
+console.log(petsName)
