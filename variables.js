@@ -14,9 +14,9 @@ var upLate = true
 var namedFileWrong = true
 
 // Reassign Variables
-var email = "gav_in_sane@yahoo.com"
-var upLate = false
-var luckyNumber = 8
+email = "gav_in_sane@yahoo.com"
+upLate = false
+luckyNumber = 8
 
 // Console log
 console.log(email)
